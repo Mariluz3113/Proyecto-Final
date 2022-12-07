@@ -1,16 +1,30 @@
-body{
-    background: rgb(206, 14, 14);
-    
+body{   
+    background: black;
+    position: center;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+header{
+    background: rgb(31, 189, 189);
+    margin: 20px 0;
+    padding: 20px 0;
+    text-align: center;
+}
+img{
+    display: block;
+    width: 400px;
+    margin: auto;
+    height: 400px;
+    margin-right: center;
+    border-radius: 10px;
+    border: 2px solid black;
+    padding: 5px;
 }
 section{
-    padding: 50px 30px 20px 60px;
-    margin-left: 40px;
-}
-section article{
-    background-color: antiquewhite;
-    width: 500px;
-    height: 500px;
-}
-section article p{
+    
     line-height: 2;
+    background-color: aqua;
+    padding: 100px 100px ;
+    
+
 }
